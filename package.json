@@ -1,13 +1,14 @@
 {
   "name": "ws-test",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple web socket chat app",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Ivan Vasilev",
+    "url": "https://github.com/ivan0vasilev"
+  },
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
