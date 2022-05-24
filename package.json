@@ -1,15 +1,15 @@
 {
   "name": "ws-test",
   "version": "1.0.0",
-  "description": "Simple web socket chat app",
-  "scripts": {
-    "start": "nodemon app.js"
-  },
+  "description": "Node.JS Websocket Chat Application",
   "author": {
     "name": "Ivan Vasilev",
     "url": "https://github.com/ivan0vasilev"
   },
-  "license": "ISC",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
